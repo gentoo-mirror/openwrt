@@ -1,8 +1,0 @@
-dev-libs/libubox 9999: A general purpose library for the OpenWRT project.
-net-misc/netifd 9999: A general purpose library for the OpenWRT project.
-net-misc/odhcp6c 9999: DHCP server for the OpenWRT project.
-net-misc/odhcpd 9999: DHCP server for the OpenWRT project.
-sys-apps/procd 9999: A general purpose library for the OpenWRT project.
-sys-apps/ubox 9999: A general purpose library for the OpenWRT project.
-sys-apps/ubus 9999: A general purpose library for the OpenWRT project.
-sys-apps/uci 9999: A general purpose library for the OpenWRT project.
